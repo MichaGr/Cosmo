@@ -1,0 +1,10 @@
+#define ASSETS_DIR "/home/michael/Documents/Development/Cosmo/Lib/assets/"
+#define SHADER_DIR "/home/michael/Documents/Development/Cosmo/Lib/assets/shader/"
+#define MODEL_DIR "/home/michael/Documents/Development/Cosmo/Lib/assets/models/"
+#define OPENGL_MAJOR_VERSION 4
+#define OPENGL_MINOR_VERSION 5
+#define DEPTH_BITS 24
+#define STENCIL_BITS 8
+#define ANTIALIASING_LEVEL 16
+#define FRAME_LIMIT 60
+#define PHYSICS_FRAMERATE 120
